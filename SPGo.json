@@ -1,0 +1,13 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://maximusukdev.sharepoint.com/sites/chda/bs",
+    "publishingScope": "Major",
+    "authenticationType": "Digest",
+    "storeCredentials" : true,
+    "remoteFolders": [
+        "/SitePages/",
+        "/PublishingImages/",
+        "/PublishingImages/*/**"
+    ],
+    "checkInMessage": "Published by Jason Clark"    
+}
